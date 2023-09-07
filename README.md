@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle projects 
+Kaggle projects ive had the oppurtunity to work on 
